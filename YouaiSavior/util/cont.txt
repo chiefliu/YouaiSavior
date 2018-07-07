@@ -1,0 +1,18 @@
+﻿###const.txt info
+###start
+{
+	"ClientVersion": "20180601.01",
+	"AddonVersion": "20180701.01",
+	"NgaTieLink": "http://bbs.ngacn.cc/read.php?tid=11817959",
+	"Body": [{
+			"Version": "20180601.01",
+			"Description": "第二个版本dfadfasfffffffffffffffffffffffffffffffffdafassssssssssssfds"
+		},
+		{
+			"Version": "20180601.01",
+			"Description": "第1个版本xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+		}
+	],
+	"WebDownloadUrls": ["http://www.baidu.com/", "http://www.sogou.com/"]
+}
+###end
